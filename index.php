@@ -3,6 +3,6 @@
 		<title>This is title</title>
 	</header>
 	<body>
-		Hello world. How are you today?
+		Hello world.
 	</body>
 </html>
